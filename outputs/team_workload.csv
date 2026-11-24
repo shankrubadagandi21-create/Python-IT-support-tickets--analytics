@@ -1,0 +1,6 @@
+team_id,total_tickets,average_resolution_hours,team_name
+1,17,21.660299145299145,Service Desk
+2,19,9.684555555555557,Network Support
+3,21,24.67226495726496,Application Support
+4,23,40.16878787878788,Infrastructure Support
+5,20,29.52011574074074,Access Management
